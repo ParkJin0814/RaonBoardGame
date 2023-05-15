@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917888388477",
+    "project_id": "raonboardgame",
+    "storage_bucket": "raonboardgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917888388477:android:18fa685257d82a2d371014",
+        "android_client_info": {
+          "package_name": "com.firebase.raonboardgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917888388477-85b3vk9oif8n25gkfqrun6hfmkcsjkf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaAww9xIux_8QxqC9mMMRbqZfNNc36uC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917888388477-85b3vk9oif8n25gkfqrun6hfmkcsjkf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
